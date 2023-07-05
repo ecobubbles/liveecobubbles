@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+ul {
+margin: 0;
+padding: 25px;
+background: lightgrey;
+display:flex;
+list-style: none;
+}
+
+li {
+  padding: 0 10px 0 10px;
+}
+
+.image-container {
+  margin: 25px 0 25px 0;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.image-container img {
+  border-radius: 175px;
+}
